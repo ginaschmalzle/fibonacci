@@ -1,9 +1,0 @@
-0
-0 3.09944152832e-06
-1
-1 9.53674316406e-07
-2
-Traceback (most recent call last):
-  File "./fibo_recursive_timed.py", line 13, in <module>
-    print (get_fibo(num-1) + get_fibo(num-2))
-NameError: name 'get_fibo' is not defined
